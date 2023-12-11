@@ -34,4 +34,7 @@ diesel migration run
 ```
 
 cargo b
+
 cargo r
+
+https://dev.to/roxie/how-to-add-google-s-two-factor-authentication-to-a-laravel-8-application-4jjp
