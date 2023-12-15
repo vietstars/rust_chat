@@ -50,3 +50,6 @@ https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persi
 
 # JWT
 https://codevoweb.com/rust-actix-web-jwt-access-and-refresh-tokens
+
+# RPC
+https://github.com/dirien/rust-grpc
