@@ -47,3 +47,6 @@ cargo install diesel_cli --no-default-features --features sqlite
 
 # postgress
 https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persistent-data-storage
+
+# JWT
+https://codevoweb.com/rust-actix-web-jwt-access-and-refresh-tokens
